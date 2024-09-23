@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Ashoka Tatang Solihin</title>
+</head>
+<body>
+    <h1>Ashoka Tatang Solihin</h1>
+    <p><a href="mailto:ashokakwangkwang@gmail.com">ashokakwangkwang@gmail.com</a>| +62 0164 16888</p>
+    <p>Jl. Ikan Paus, Talang, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35224</p>
+    
+    <hr>
+    
+    <h2>Tentang Saya</h2>
+    <p>Seorang mahasiswa Institut Teknologi Sumatera. Memiliki prinsip untuk selalu bersemangat dan bertanggungjawab dalam setiap pekerjaan. Selain tertarik pada informatika yang merupakan program studi saya, saya juga tertarik pada komunikasi dan kerjasama tim. Menjadi penanggungjawab di bidang kewirausahaan adalah salah satu pengalaman yang menarik bagi saya.</p>
+
+    <h2>Pendidikan</h2>
+    <p><strong>S1 Teknik Informatika, Institut Teknologi Sumatera</strong><br> IPK: 4.00</p>
+    <p><strong>SMA IPA, SMA Xaverius Bandarlampung</strong><br> OSIS: Kewirausahaan</p>
+
+    <h2>Pengalaman</h2>
+    <h3>HARDWARE - Sales Promotion Boy (April 2022 - May 2022)</h3>
+    <ul>
+        <li>Mempromosikan produk ke pelanggan: Bertanggung jawab untuk mempromosikan produk kepada pelanggan dengan memberikan informasi yang lengkap dan menarik mengenai keunggulan dan manfaat produk.</li>
+        <li>Menyambut dan Melayani Pelanggan: Menerima pelanggan dengan ramah dan memberikan pelayanan yang baik. Menjawab pertanyaan pelanggan, memberikan rekomendasi, dan membantu mereka dalam memilih produk yang sesuai dengan kebutuhan dan preferensi mereka.</li>
+        <li>Menjaga dan Menata Produk: Menjaga tampilan dan penataan produk di toko agar menarik dan rapi.</li>
+        <li>Mengelola Stok Produk: Memantau stok produk di toko, melakukan pelintungan penjualan, dan memastikan bahwa produk yang dipajang memiliki stok yang cukup dan teratur.</li>
+    </ul>
+
+    <h3>OSIS SMA Xaverius Bandarlampung - Kewirausahaan (September 2020 - September 2021)</h3>
+    <ul>
+        <li>Inovasi dan Kreativitas: Mampu berpikir kreatif dan menghasilkan ide-ide inovatif untuk memecahkan masalah atau memenuhi kebutuhan pasar.</li>
+        <li>Mempromosikan produk ke pelanggan: Bertanggung jawab untuk mempromosikan produk kepada pelanggan dengan memberikan informasi yang lengkap dan menarik mengenai keunggulan dan manfaat produk.</li>
+        <li>Rencana Bisnis: Mampu menyusun rencana bisnis yang komprehensif dan terstruktur.</li>
+    </ul>
+<hr>
+    <h2>Kemampuan</h2>
+    <ul>
+        <li>Mampu bekerjasama dalam tim maupun individu.</li>
+        <li>Dapat mengoperasikan MS. Excel.</li>
+        <li>Dapat mengoperasikan MS. Word.</li>
+        <li>Memiliki komunikasi yang baik.</li>
+    </ul>
+
+    <footer>
+        <hr>
+        <p style="text-align: center;">Ashoka Tatang Solihin_122140051</p>
+    </footer>
+</body>
+</html>
